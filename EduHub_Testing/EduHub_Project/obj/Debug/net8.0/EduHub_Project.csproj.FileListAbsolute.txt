@@ -1,0 +1,5 @@
+D:\Unit_Testing\EduHub_Testing\EduHub_Project\obj\Debug\net8.0\EduHub_Project.csproj.AssemblyReference.cache
+D:\Unit_Testing\EduHub_Testing\EduHub_Project\obj\Debug\net8.0\EduHub_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unit_Testing\EduHub_Testing\EduHub_Project\obj\Debug\net8.0\EduHub_Project.AssemblyInfoInputs.cache
+D:\Unit_Testing\EduHub_Testing\EduHub_Project\obj\Debug\net8.0\EduHub_Project.AssemblyInfo.cs
+D:\Unit_Testing\EduHub_Testing\EduHub_Project\obj\Debug\net8.0\EduHub_Project.csproj.CoreCompileInputs.cache

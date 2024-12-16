@@ -1,0 +1,11 @@
+D:\Unit_Testing\Collection_Demo\Library_For_CollectionTest\bin\Debug\net8.0\Library_For_CollectionTest.deps.json
+D:\Unit_Testing\Collection_Demo\Library_For_CollectionTest\bin\Debug\net8.0\Library_For_CollectionTest.dll
+D:\Unit_Testing\Collection_Demo\Library_For_CollectionTest\bin\Debug\net8.0\Library_For_CollectionTest.pdb
+D:\Unit_Testing\Collection_Demo\Library_For_CollectionTest\obj\Debug\net8.0\Library_For_CollectionTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unit_Testing\Collection_Demo\Library_For_CollectionTest\obj\Debug\net8.0\Library_For_CollectionTest.AssemblyInfoInputs.cache
+D:\Unit_Testing\Collection_Demo\Library_For_CollectionTest\obj\Debug\net8.0\Library_For_CollectionTest.AssemblyInfo.cs
+D:\Unit_Testing\Collection_Demo\Library_For_CollectionTest\obj\Debug\net8.0\Library_For_CollectionTest.csproj.CoreCompileInputs.cache
+D:\Unit_Testing\Collection_Demo\Library_For_CollectionTest\obj\Debug\net8.0\Library_For_CollectionTest.dll
+D:\Unit_Testing\Collection_Demo\Library_For_CollectionTest\obj\Debug\net8.0\refint\Library_For_CollectionTest.dll
+D:\Unit_Testing\Collection_Demo\Library_For_CollectionTest\obj\Debug\net8.0\Library_For_CollectionTest.pdb
+D:\Unit_Testing\Collection_Demo\Library_For_CollectionTest\obj\Debug\net8.0\ref\Library_For_CollectionTest.dll

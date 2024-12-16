@@ -1,0 +1,6 @@
+d:\Unit_Testing\CalculatorTest_Demo\obj\Debug\net8.0\CalculatorTest_Demo.csproj.AssemblyReference.cache
+d:\Unit_Testing\CalculatorTest_Demo\obj\Debug\net8.0\CalculatorTest_Demo.GeneratedMSBuildEditorConfig.editorconfig
+d:\Unit_Testing\CalculatorTest_Demo\obj\Debug\net8.0\CalculatorTest_Demo.AssemblyInfoInputs.cache
+d:\Unit_Testing\CalculatorTest_Demo\obj\Debug\net8.0\CalculatorTest_Demo.AssemblyInfo.cs
+d:\Unit_Testing\CalculatorTest_Demo\obj\Debug\net8.0\CalculatorTest_Demo.csproj.CoreCompileInputs.cache
+d:\Unit_Testing\CalculatorTest_Demo\bin\Debug\net8.0\CoverletSourceRootsMapping_CalculatorTest_Demo

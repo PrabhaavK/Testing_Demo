@@ -1,0 +1,11 @@
+D:\Unit_Testing\Repository_Test\DLL_CustomerService_For_MOQ_test\obj\Debug\net8.0\DLL_CustomerService_For_MOQ_test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unit_Testing\Repository_Test\DLL_CustomerService_For_MOQ_test\obj\Debug\net8.0\DLL_CustomerService_For_MOQ_test.AssemblyInfoInputs.cache
+D:\Unit_Testing\Repository_Test\DLL_CustomerService_For_MOQ_test\obj\Debug\net8.0\DLL_CustomerService_For_MOQ_test.AssemblyInfo.cs
+D:\Unit_Testing\Repository_Test\DLL_CustomerService_For_MOQ_test\obj\Debug\net8.0\DLL_CustomerService_For_MOQ_test.csproj.CoreCompileInputs.cache
+D:\Unit_Testing\Repository_Test\DLL_CustomerService_For_MOQ_test\bin\Debug\net8.0\DLL_CustomerService_For_MOQ_test.deps.json
+D:\Unit_Testing\Repository_Test\DLL_CustomerService_For_MOQ_test\bin\Debug\net8.0\DLL_CustomerService_For_MOQ_test.dll
+D:\Unit_Testing\Repository_Test\DLL_CustomerService_For_MOQ_test\bin\Debug\net8.0\DLL_CustomerService_For_MOQ_test.pdb
+D:\Unit_Testing\Repository_Test\DLL_CustomerService_For_MOQ_test\obj\Debug\net8.0\DLL_CustomerService_For_MOQ_test.dll
+D:\Unit_Testing\Repository_Test\DLL_CustomerService_For_MOQ_test\obj\Debug\net8.0\refint\DLL_CustomerService_For_MOQ_test.dll
+D:\Unit_Testing\Repository_Test\DLL_CustomerService_For_MOQ_test\obj\Debug\net8.0\DLL_CustomerService_For_MOQ_test.pdb
+D:\Unit_Testing\Repository_Test\DLL_CustomerService_For_MOQ_test\obj\Debug\net8.0\ref\DLL_CustomerService_For_MOQ_test.dll

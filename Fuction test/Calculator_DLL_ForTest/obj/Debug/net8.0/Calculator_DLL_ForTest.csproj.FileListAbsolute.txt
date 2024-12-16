@@ -1,0 +1,22 @@
+D:\Unit Testing\Calculator_DLL_ForTest\bin\Debug\net8.0\Calculator_DLL_ForTest.deps.json
+D:\Unit Testing\Calculator_DLL_ForTest\bin\Debug\net8.0\Calculator_DLL_ForTest.dll
+D:\Unit Testing\Calculator_DLL_ForTest\bin\Debug\net8.0\Calculator_DLL_ForTest.pdb
+D:\Unit Testing\Calculator_DLL_ForTest\obj\Debug\net8.0\Calculator_DLL_ForTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unit Testing\Calculator_DLL_ForTest\obj\Debug\net8.0\Calculator_DLL_ForTest.AssemblyInfoInputs.cache
+D:\Unit Testing\Calculator_DLL_ForTest\obj\Debug\net8.0\Calculator_DLL_ForTest.AssemblyInfo.cs
+D:\Unit Testing\Calculator_DLL_ForTest\obj\Debug\net8.0\Calculator_DLL_ForTest.csproj.CoreCompileInputs.cache
+D:\Unit Testing\Calculator_DLL_ForTest\obj\Debug\net8.0\Calculator_DLL_ForTest.dll
+D:\Unit Testing\Calculator_DLL_ForTest\obj\Debug\net8.0\refint\Calculator_DLL_ForTest.dll
+D:\Unit Testing\Calculator_DLL_ForTest\obj\Debug\net8.0\Calculator_DLL_ForTest.pdb
+D:\Unit Testing\Calculator_DLL_ForTest\obj\Debug\net8.0\ref\Calculator_DLL_ForTest.dll
+d:\Unit_Testing\Calculator_DLL_ForTest\bin\Debug\net8.0\Calculator_DLL_ForTest.deps.json
+d:\Unit_Testing\Calculator_DLL_ForTest\bin\Debug\net8.0\Calculator_DLL_ForTest.dll
+d:\Unit_Testing\Calculator_DLL_ForTest\bin\Debug\net8.0\Calculator_DLL_ForTest.pdb
+d:\Unit_Testing\Calculator_DLL_ForTest\obj\Debug\net8.0\Calculator_DLL_ForTest.GeneratedMSBuildEditorConfig.editorconfig
+d:\Unit_Testing\Calculator_DLL_ForTest\obj\Debug\net8.0\Calculator_DLL_ForTest.AssemblyInfoInputs.cache
+d:\Unit_Testing\Calculator_DLL_ForTest\obj\Debug\net8.0\Calculator_DLL_ForTest.AssemblyInfo.cs
+d:\Unit_Testing\Calculator_DLL_ForTest\obj\Debug\net8.0\Calculator_DLL_ForTest.csproj.CoreCompileInputs.cache
+d:\Unit_Testing\Calculator_DLL_ForTest\obj\Debug\net8.0\Calculator_DLL_ForTest.dll
+d:\Unit_Testing\Calculator_DLL_ForTest\obj\Debug\net8.0\refint\Calculator_DLL_ForTest.dll
+d:\Unit_Testing\Calculator_DLL_ForTest\obj\Debug\net8.0\Calculator_DLL_ForTest.pdb
+d:\Unit_Testing\Calculator_DLL_ForTest\obj\Debug\net8.0\ref\Calculator_DLL_ForTest.dll

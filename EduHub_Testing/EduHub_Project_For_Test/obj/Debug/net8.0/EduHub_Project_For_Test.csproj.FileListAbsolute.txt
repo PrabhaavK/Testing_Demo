@@ -1,0 +1,8 @@
+D:\Unit_Testing\EduHub_Testing\EduHub_Project_For_Test\obj\Debug\net8.0\EduHub_Project_For_Test.csproj.AssemblyReference.cache
+D:\Unit_Testing\EduHub_Testing\EduHub_Project_For_Test\obj\Debug\net8.0\EduHub_Project_For_Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unit_Testing\EduHub_Testing\EduHub_Project_For_Test\obj\Debug\net8.0\EduHub_Project_For_Test.AssemblyInfoInputs.cache
+D:\Unit_Testing\EduHub_Testing\EduHub_Project_For_Test\obj\Debug\net8.0\EduHub_Project_For_Test.AssemblyInfo.cs
+D:\Unit_Testing\EduHub_Testing\EduHub_Project_For_Test\obj\Debug\net8.0\EduHub_Project_For_Test.csproj.CoreCompileInputs.cache
+D:\Unit_Testing\EduHub_Testing\EduHub_Project_For_Test\obj\Debug\net8.0\EduHub_Project_For_Test.MvcApplicationPartsAssemblyInfo.cache
+D:\Unit_Testing\EduHub_Testing\EduHub_Project_For_Test\obj\Debug\net8.0\EduHub_Project_For_Test.RazorAssemblyInfo.cache
+D:\Unit_Testing\EduHub_Testing\EduHub_Project_For_Test\obj\Debug\net8.0\EduHub_Project_For_Test.RazorAssemblyInfo.cs

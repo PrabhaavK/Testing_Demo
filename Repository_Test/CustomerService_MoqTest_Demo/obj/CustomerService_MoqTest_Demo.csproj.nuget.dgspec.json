@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Unit_Testing\\Repository_Test\\CustomerService_MoqTest_Demo\\CustomerService_MoqTest_Demo.csproj": {}
+  },
+  "projects": {
+    "D:\\Unit_Testing\\Repository_Test\\CustomerService_MoqTest_Demo\\CustomerService_MoqTest_Demo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Unit_Testing\\Repository_Test\\CustomerService_MoqTest_Demo\\CustomerService_MoqTest_Demo.csproj",
+        "projectName": "CustomerService_MoqTest_Demo",
+        "projectPath": "D:\\Unit_Testing\\Repository_Test\\CustomerService_MoqTest_Demo\\CustomerService_MoqTest_Demo.csproj",
+        "packagesPath": "C:\\Users\\prabhav.khalya\\.nuget\\packages\\",
+        "outputPath": "D:\\Unit_Testing\\Repository_Test\\CustomerService_MoqTest_Demo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\prabhav.khalya\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Unit_Testing\\Repository_Test\\DLL_CustomerService_For_MOQ_test\\DLL_CustomerService_For_MOQ_test.csproj": {
+                "projectPath": "D:\\Unit_Testing\\Repository_Test\\DLL_CustomerService_For_MOQ_test\\DLL_CustomerService_For_MOQ_test.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Unit_Testing\\Repository_Test\\DLL_CustomerService_For_MOQ_test\\DLL_CustomerService_For_MOQ_test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Unit_Testing\\Repository_Test\\DLL_CustomerService_For_MOQ_test\\DLL_CustomerService_For_MOQ_test.csproj",
+        "projectName": "DLL_CustomerService_For_MOQ_test",
+        "projectPath": "D:\\Unit_Testing\\Repository_Test\\DLL_CustomerService_For_MOQ_test\\DLL_CustomerService_For_MOQ_test.csproj",
+        "packagesPath": "C:\\Users\\prabhav.khalya\\.nuget\\packages\\",
+        "outputPath": "D:\\Unit_Testing\\Repository_Test\\DLL_CustomerService_For_MOQ_test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\prabhav.khalya\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

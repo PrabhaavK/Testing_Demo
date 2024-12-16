@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DLL_CustomerService_For_MOQ_test/1.0.0": {
+        "runtime": {
+          "DLL_CustomerService_For_MOQ_test.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DLL_CustomerService_For_MOQ_test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
